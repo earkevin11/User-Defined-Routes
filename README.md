@@ -20,7 +20,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/171035918-b78b63f9-95bd-4238-a614-82dd84f63467.png" height="90%" width="90%" alt="UDR"/>
+<img src="https://user-images.githubusercontent.com/104326475/171035918-b78b63f9-95bd-4238-a614-82dd84f63467.png" height="175%" width="175%" alt="UDR"/>
 
 <p/>
 
