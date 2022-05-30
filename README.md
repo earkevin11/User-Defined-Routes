@@ -84,9 +84,9 @@
 
 - We must enable forwarding on the centralVm's NIC
 - Now, when a request is being made from the VM in subnetA for the vmB in subnetB, centralvm forwards the request it to the vmB within subnetB
-- However, we must also configure forwarding request at the OS layer on centralVM
+
+# However, we must also configure forwarding request at the OS layer on centralVM
 - Install Remote Access > Routing > DirectAccess and VPN (RAS)
-- 
 
 <p align="center">
   
@@ -103,6 +103,13 @@
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/171059360-afc79af0-55b9-4abd-b26d-e535e92cb7c3.png" height="90%" width="90%" alt="UDR"/>
+
+<p/>
+
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/171060788-b26c8e04-4874-4afc-b44e-569804f1ac15.png" height="90%" width="90%" alt="UDR"/>
 
 <p/>
 
