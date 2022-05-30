@@ -35,15 +35,17 @@
 
 <p/>
 
-
+- For vmB, open port HTTP 80 and RDP so admins can access IIS
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/171037508-7303adf4-db06-4ef3-bba4-90176d6d7553.png" height="50%" width="50%" alt="UDR"/>
+<img src="https://user-images.githubusercontent.com/104326475/171040735-e184f7d3-db56-4a74-837d-8e22c7447e34.png" height="50%" width="50%" alt="UDR"/>
 
 <p/>
 
-
+# For vmB: download IIS Web Server and create an HTML page and save it within wwwroot
+- Access vmB IIS within vmA
+- Notice that vmA can access vmB because of the default rule of allowing connections within a virtual network
 
 <p align="center">
   
