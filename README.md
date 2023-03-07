@@ -1,9 +1,11 @@
 # User-Defined-Routes
 
-# What are user-defined routes?
+# What are user-defined routes? Can it be used for forced tunneling?
 - When users want to define custom routes within a Virtual Network, use UDR when admins want to route traffic a particular way
+- Admins will implement UDR for forced tunneling to redirect internet-bound traffic back to the company's on-premises infrastructure.
 
-
+# What is Forced-Tunneling used for?
+- Forced tunneling is commonly used in scenarios where organizations want to implement packet inspection or corporate audits. Forced tunneling in Azure is configured via virtual network user-defined routes (UDR).
 
 # Use Case
 - Create a virtual network with 3 virtual machines in their own subnets
